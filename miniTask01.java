@@ -6,7 +6,7 @@ public class miniTask01 {
 
 
         for (int i = 1; i <= 9; i++) {
-            for (int j = 2; j <= 9; j++) {
+            for (int j = 1; j <= 9; j++) {
                 int k = i*j;
 
                 String ii = String.format("%02d",i);
